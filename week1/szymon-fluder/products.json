@@ -1,0 +1,16 @@
+{
+  "products": [
+    {
+      "name": "Gaming Mouse",
+      "price": 49.99,
+      "description": "High precision mouse",
+      "tags": ["electronics", "gaming"]
+    },
+    {
+      "name": "Keyboard",
+      "price": 79.90,
+      "description": "Mechanical keyboard",
+      "tags": ["electronics", "office"]
+    }
+  ]
+}
